@@ -9,7 +9,7 @@
 		"experimentalDecorators": true,
 		"allowSyntheticDefaultImports": true,
 		"sourceMap": true,
-		"outDir": "./dist",
+		"outDir": "./public",
 		"baseUrl": "./",
 		"paths": {
 			"@/*": ["src/*"]
